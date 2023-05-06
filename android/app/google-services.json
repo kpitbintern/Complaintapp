@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138060336242",
+    "project_id": "genericapp-8fed2",
+    "storage_bucket": "genericapp-8fed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138060336242:android:53428c1e53099d3c3b86eb",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138060336242-54d5d65ij0iujueofqg3fg5v8h4aivvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7HSJfNhzwokoGzMAn8aAoBZ3uFEPvZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138060336242-54d5d65ij0iujueofqg3fg5v8h4aivvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
